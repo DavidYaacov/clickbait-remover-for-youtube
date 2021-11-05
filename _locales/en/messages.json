@@ -47,6 +47,10 @@
     "message": "Donate!",
     "description": ""
   },
+  "backsettings": {
+    "message": "Go back to settings",
+    "description": ""
+  },
   "thanksForDonating": {
     "message": "Thanks that you are considering donating!",
     "description": ""

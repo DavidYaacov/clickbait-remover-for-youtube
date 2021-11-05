@@ -47,6 +47,10 @@
     "message": "Anneta!",
     "description": ""
   },
+  "backsettings": {
+    "message": "Minge tagasi seadete juurde",
+    "description": ""
+  },
   "thanksForDonating": {
     "message": "Täname, et kaalute annetamist!",
     "description": ""
